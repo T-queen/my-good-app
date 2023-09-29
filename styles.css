@@ -49,3 +49,12 @@ li {
   position: relative;
   top: -21px;
 }
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.footer {
+  position: absolute;
+}
